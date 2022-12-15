@@ -1,3 +1,5 @@
 {
-  "cSpell.words": ["DOCKERHUB"]
+  "cSpell.words": ["DOCKERHUB"],
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true
 }
